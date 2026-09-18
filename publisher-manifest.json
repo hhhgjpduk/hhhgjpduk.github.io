@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "106b6a797b1c583b4e5b8c1e",
+  "owner": "hhhgjpduk",
+  "repo": "hhhgjpduk.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "34996a244a30a2edfe094fb7",
+      "a": "锂云网络(Liuns)",
+      "b": "加速器官网",
+      "entity": "锂云网络(Liuns)",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fc7671731db4dfc28d93771316dee6fcb00961e41ae804977340565a3875d8f5",
+      "content": {
+        "primary_entity": "锂云网络(Liuns)",
+        "keyword1": "锂云网络(Liuns)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_DESCRIPTION": "，为跨境访问与流媒体需求提供多档订阅选择。基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并带 IPLC 专线游戏优化，团队版每月 1000GB、支持 20 台设备。按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可依设备数量与流量需求挑选。",
+          "AI_HERO_SUBTITLE": "锂云网络订阅选择与设备配置",
+          "AI_HERO_INTRO": "锂云网络提供基础版、旗舰版与团队版三档订阅，分别对应不同流量、设备数量与线路权益。按终端类型选择客户端并配置订阅，即可在手机、电脑或路由器上按需使用。",
+          "AI_VISUAL_TITLE": "锂云网络订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案价格更省",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "结合设备数量、流量消耗与线路需求快速定位适合的订阅。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；手机、平板与电脑同时在线按此上限配置。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，视频与下载较多时建议选中高流量档。",
+          "AI_FEATURE_TITLE_3": "年付更省",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，适合长期稳定使用的用户直接锁定价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻度使用；旗舰版 ¥35/月含 IPLC 专线与全节点流媒体解锁；团队版 ¥85/月面向多设备与高带宽场景。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器等终端类型，选用对应操作系统的客户端并导入订阅链接完成配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按终端环境依次操作即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量预期，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认终端操作系统版本与网络环境是否满足客户端运行条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档说明导入订阅链接，完成节点与规则设置后即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选定套餐，依客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "锂云网络支持哪些设备导入订阅？",
+          "AI_FAQ_ANSWER_1": "常见桌面与移动系统均有对应客户端可选。具体可在客户端列表查看，并结合客户端文档完成订阅导入，导入后留意设备并发数是否超出所选套餐上限。",
+          "AI_FAQ_QUESTION_2": "不同套餐的设备数量怎么区分？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。若家里多台电脑、手机与平板同时使用，建议从旗舰版起步；多人共享则考虑团队版。",
+          "AI_FAQ_QUESTION_3": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_3": "每月流量额度按套餐划分：基础版 100GB、旗舰版 300GB、团队版 1000GB。当月接近上限时可考虑升级到更高流量档位，或规划下月使用强度，避免影响体验。",
+          "AI_FAQ_QUESTION_4": "月付和年付如何选择？",
+          "AI_FAQ_ANSWER_4": "月付适合短期或先试用，年付则把成本摊薄到每月更低。例如基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。若确认长期使用，年付更省心。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 1000GB 月流量与 20 台设备并发，并包含 VIP 高带宽节点与定制路由支持。适合多人协作、需要统一管理多终端的场景，也可联系专属客户经理获取协助。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5f653d1b77d49106fb3deaef0c667e70df147ba30498a8a5fa3d16c1020b7a4a",
+    "sitemap.xml": "1c95fcef7bf1c1d9e2d62130bcc2ee6fe0bbcd2e0f7a6c1e8ff9af68a5df17c2",
+    "robots.txt": "4da89657566a50cd2e29642e69a4a51fa247f7d723c6854a3c3230db37298f4c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "214d0381f0271f7fb5599a189b4a3c3d33673f4dc107452ccbcfd9304361678c"
+}

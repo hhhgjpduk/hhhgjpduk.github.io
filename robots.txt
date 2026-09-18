@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hhhgjpduk.github.io/sitemap.xml
